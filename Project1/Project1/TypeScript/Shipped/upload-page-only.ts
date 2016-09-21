@@ -1,0 +1,1 @@
+﻿/// <reference path="../Components/MyComponent3/A.ts"/>
