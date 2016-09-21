@@ -35,6 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="TypeScript\tsconfig.json" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="TypeScript\Components\MyComponent1\A.ts" />
